@@ -1,4 +1,4 @@
 ![Banner personalizado]
-(C:\teste\apresentacao.png)
+(./your-header-image-name.png)
 
 # Olá! Eu sou a Ana Beatriz 👋
